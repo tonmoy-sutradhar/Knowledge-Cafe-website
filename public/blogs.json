@@ -1,47 +1,52 @@
 [
   {
     "id": 1,
-    "cover": " https://i.ibb.co.com/1KKYYVj/flat-lay-desk-dark-concept-with-copy-space.jpg",
+    "cover": "https://i.ibb.co.com/gTQgqph/2.png",
     "title": "The Journey Beyond",
+    "author": "John Smith",
     "author_img": "https://i.ibb.co.com/xKbBfL0/tonmoy.jpg",
     "posted_date": "2024-10-15",
     "reading_time": 8,
-    "hashtags": ["#adventure", "#mystery", "#fiction"]
+    "hashtags": ["mystery", "programming"]
   },
   {
     "id": 2,
-    "cover": "https://i.ibb.co.com/yBkPXw5/1907-i109-039-p-m004-c30-programming-development-isometric-icons-14.jpg",
+    "cover": "https://i.ibb.co.com/cxCk3yX/1.jpg",
     "title": "Secrets of the Lost City",
+    "author": "Emily Johnson",
     "author_img": "https://i.ibb.co.com/xKbBfL0/tonmoy.jpg",
     "posted_date": "2024-09-25",
     "reading_time": 12,
-    "hashtags": ["#history", "#thriller", "#exploration"]
+    "hashtags": ["history", "exploration"]
   },
   {
     "id": 3,
-    "cover": "https://i.ibb.co.com/TgtV6nD/416203-PE4-ADM-224.jpg",
+    "cover": "https://i.ibb.co.com/2Sgvtds/4.jpg",
     "title": "Whispers in the Wind",
+    "author": "Michael Lee",
     "author_img": "https://i.ibb.co.com/xKbBfL0/tonmoy.jpg",
     "posted_date": "2024-08-18",
     "reading_time": 6,
-    "hashtags": ["#romance", "#drama", "#literature"]
+    "hashtags": ["drama", "literature"]
   },
   {
     "id": 4,
-    "cover": "https://i.ibb.co.com/yBkPXw5/1907-i109-039-p-m004-c30-programming-development-isometric-icons-14.jpg",
+    "cover": "https://i.ibb.co.com/nL5rw4S/3.png",
     "title": "Code Breakers",
+    "author": "Sophia Martinez",
     "author_img": "https://i.ibb.co.com/xKbBfL0/tonmoy.jpg",
     "posted_date": "2024-10-05",
     "reading_time": 10,
-    "hashtags": ["#technology", "#programming", "#cybersecurity"]
+    "hashtags": ["programming", "cybersecurity"]
   },
   {
     "id": 5,
     "cover": "https://i.ibb.co.com/TgtV6nD/416203-PE4-ADM-224.jpg",
     "title": "Into the Abyss",
+    "author": "David Wilson",
     "author_img": "https://i.ibb.co.com/xKbBfL0/tonmoy.jpg",
     "posted_date": "2024-07-30",
     "reading_time": 9,
-    "hashtags": ["#sci-fi", "#space", "#exploration"]
+    "hashtags": ["space", "exploration"]
   }
 ]
