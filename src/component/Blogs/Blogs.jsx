@@ -28,7 +28,7 @@ const Blogs = ({ handleBookMark, handleMarkAsRead }) => {
 };
 
 Blogs.PropTypes = {
-  handleBookMark: propTypes.func,
-  handleMarkAsRead: propTypes.func,
+  handleBookMark: PropTypes.func,
+  handleMarkAsRead: PropTypes.func,
 };
 export default Blogs;
